@@ -7,7 +7,7 @@
 
 
 #### “ The ultimate Apex Test Data Factory ” :factory: :ok_hand:
-
+https://benahm0.medium.com/apex-test-data-factory-8ed14c2ca050
 Generate & insert an sObject with all the required fields & relationships auto-filled
   ```apex
   Contact con = (Contact)TestDataFactory.createSObject('Contact');
